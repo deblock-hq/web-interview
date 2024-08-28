@@ -18,6 +18,7 @@ FIGMA file to follow soon.
 We want a web app where the user can:
 
 1- Allow a user to connect their metamask wallet via any web3 provider library. (Feel free to draft a simple "Connect button" on the navBar, or a login page with it, no design provided, surprise us :) 
+(See https://ethereum.stackexchange.com/questions/157195/connecting-to-metamask-using-web3-js-web3-givenprovider-vs-window-ethereum)
 
 2- Once a wallet is connected, we want users to be able to get exchange rates between ETH and different pairs (for example USDT, and BTC), with the provided component. 
 
