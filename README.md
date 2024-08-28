@@ -9,6 +9,8 @@
 
 ## Requirements
 
+FIGMA FILE: https://www.figma.com/design/02BTnseR36At9PbXe0nRTq/Web-Interview?node-id=0-1&t=aen3t59ZdAA1BKli-1
+
 ### Design
 <img width="463" alt="Screenshot 2024-08-28 at 17 47 53" src="https://github.com/user-attachments/assets/d5fa4a32-3475-40e9-8797-7db5945f2356">
 
